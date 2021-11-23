@@ -1,4 +1,4 @@
-package goserilog
+package gologger
 
 type LogLevel int
 
